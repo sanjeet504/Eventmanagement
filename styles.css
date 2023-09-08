@@ -1,0 +1,133 @@
+ /* CSS styles for the website */
+ body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+
+  }
+  
+  .header {
+    background-color: darkblue;
+    color: white;
+    padding: 20px;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 20px auto;
+    padding: 20px;
+  }
+ 
+  .event {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .event h2 {
+    font-family: "Montserrat-Bold";
+    margin: 0;
+    color: #333;
+  }
+  
+  .event p {
+    margin: 0;
+  }
+  
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  } 
+  .bgimage{
+    background-image: url("images/ravebg.png");
+    position: relative;
+    height:800px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .mainheading{
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 0px;
+    font-weight: bold;
+    font-size: 560%;
+    color: white;
+  }
+  
+  .button1{
+    text-align: center;
+    padding-top: 15rem;
+    padding-bottom: 10rem;
+    
+  }
+  
+  .container-fluid{
+    background-color: darkblue;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .container-fluid2{
+    background: white;
+    padding: 100px 750px ;
+    position: relative;
+  }
+  
+  #pricing{
+    text-align: center;
+    padding-left: 5%;
+    padding-top: 3%;
+  }
+  /* cards zoom effect  */
+  .inner{
+    overflow: hidden;
+  }
+  .inner img{
+    transition: all 1.5s ease ;
+  }
+  .inner:hover img{
+    transform: scale(1.5);
+  }
+  .promote{
+    padding-top: 5rem;
+    text-align: left;
+    font-size: larger;
+    font-family: Tt commons, sans-serif;
+  }
+  #hp{
+    float: right;
+    margin: 0 0 0 15px;
+    border-radius: 5%;
+    padding-right: 5%;
+  }
+.promote-button{
+  padding-left: 40%;
+  padding-top: 5rem ;
+}
+.analyze{
+  padding-top: 10rem;
+  text-align: right;
+  font-size: larger;
+  font-family: Tt commons, sans-serif;
+  padding-right: 70px;
+  
+}
+#ap{
+  float: left;
+  margin:0px 70px 0px 15px ;
+  border-radius: 15%;
+  
+}
+.analyze-button{
+  padding-right: 45%;
+  padding-top: 5rem;
+}
+  

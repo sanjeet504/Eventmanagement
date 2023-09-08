@@ -1,0 +1,40 @@
+header{
+    text-align: center;
+    padding-top: 3%; 
+    font-family: "PP Fragment",Verdana,Arial,sans-serif;
+}
+.promote{
+    padding-top: 5rem;
+    text-align: left;
+    font-size: larger;
+    font-family: Tt commons, sans-serif;
+    padding-left: 5rem;
+    padding-bottom: 5rem;
+  }
+  #hp{
+    float: right;
+    margin: 0 0 0 15px;
+    border-radius: 5%;
+    padding-right: 5%;
+    padding-bottom: 5rem;
+  }
+  .analyze{
+    padding-top: 10rem;
+    text-align: right;
+    font-size: larger;
+    font-family: Tt commons, sans-serif;
+    padding-right: 70px;
+    padding-left: 5rem;
+    
+  }
+  #ap{
+    float: left;
+    margin:0px 70px 0px 15px ;
+    border-radius: 15%;
+    
+  }
+  #apps{
+    padding-top: 20%;
+    padding-left: 5%;
+    text-align: center;
+  }

@@ -1,0 +1,26 @@
+.header{
+    font-family: Tt commons, sans-serif;
+    padding-left:30%;
+    padding-top: 3rem;
+    padding-bottom: 20px;
+    background: blueviolet;
+    color:palegreen;
+    
+}
+.early-pass-body{
+    padding-top: 5%;
+    padding-left: 10%;
+    font-weight: bolder;
+    
+
+}
+.limited-pic{
+    border-radius: 5%;
+    float: right;
+    padding-right: 50px;
+    
+}
+#qr-code{
+    padding-left: 40%;
+    padding-top: 10%;
+}
